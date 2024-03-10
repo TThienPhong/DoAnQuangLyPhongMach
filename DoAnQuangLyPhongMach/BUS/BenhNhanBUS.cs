@@ -6,7 +6,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// test git 2024-03-10
 namespace DoAnQuangLyPhongMach.BUS
 {
     class BenhNhanBUS
